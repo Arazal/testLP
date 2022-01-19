@@ -148,7 +148,7 @@ main {
     margin-right: 50%;
     font-size: 62px;
     border: none;
-    background: -webkit-linear-gradient(#2d2926, #eca154);
+    background: -webkit-linear-gradient(white, #eca154);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   main button:hover {
